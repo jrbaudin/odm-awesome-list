@@ -10,3 +10,4 @@ Every meetup speaker is requested to create a demo repository here on github whi
 - Host: BizMaker
 - Speaker: [Joel Baudin](https://github.com/jrbaudin)
 - Repository: [react-firebase-demo](https://github.com/jrbaudin/react-firebase-demo)
+- Presentation: [Kom igång snabbt med Rect och Firebase](https://prezi.com/view/ugYB80cZIw4YRzhCmOJe)

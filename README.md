@@ -1,6 +1,8 @@
 ## This is our one stop shop for everything awesome
 
-Every meetup speaker is requested to create a demo repository here on github which we'll link on this page. 
+Every meetup speaker is requested to create a demo repository here on github which we'll link on this page.
+
+Discussions are welcomed and can be held on [our page at meetup.com](https://www.meetup.com/ovik-dev) and/or in our [facebook group](https://www.facebook.com/groups/117816668796460/). We'll see you there!
 
 ### Meetups
 

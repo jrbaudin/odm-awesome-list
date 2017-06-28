@@ -9,7 +9,15 @@ Discussions are welcomed and can be held on [our page at meetup.com](https://www
 #### #1 [Kom igång snabbt med React och Firebase](https://www.meetup.com/ovik-dev/events/240287936/)
 
 - Date: 14 june 2017
-- Host: BizMaker
+- Host: [BizMaker](http://www.bizmaker.se)
 - Speaker: [Joel Baudin](https://github.com/jrbaudin)
 - Repository: [react-firebase-demo](https://github.com/jrbaudin/react-firebase-demo)
 - Presentation: [Kom igång snabbt med Rect och Firebase](https://prezi.com/view/ugYB80cZIw4YRzhCmOJe)
+
+#### #2 [Testning i Javascript med Jest](https://www.meetup.com/ovik-dev/events/241137933/)
+
+- Date: 9 august 2017
+- Host: [Clavister](https://www.clavister.com)
+- Speaker: [Johan Lindgren](https://github.com/lindgr3n)
+- Repository: _coming_
+- Presentation: _coming_

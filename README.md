@@ -4,6 +4,9 @@ Every meetup speaker is requested to create a demo repository here on github whi
 
 Discussions are welcomed and can be held on [our page at meetup.com](https://www.meetup.com/ovik-dev) and/or in our [facebook group](https://www.facebook.com/groups/117816668796460/). We'll see you there!
 
+### Slack Community
+<img src="https://ovikdevmeetup.now.sh/badge.svg">
+
 ### Meetups
 
 #### #1 [Kom igång snabbt med React och Firebase](https://www.meetup.com/ovik-dev/events/240287936/)

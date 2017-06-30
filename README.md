@@ -6,6 +6,7 @@ Discussions are welcomed and can be held on [our page at meetup.com](https://www
 
 ### Slack Community
 Request invite [here](https://ovikdevmeetup.now.sh)
+
 <img src="https://ovikdevmeetup.now.sh/badge.svg">
 
 ### Meetups

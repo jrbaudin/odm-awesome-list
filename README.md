@@ -6,7 +6,7 @@ Discussions are welcomed and can be held on [our page at meetup.com](https://www
 
 ### Slack Community
 <img src="https://ovikdevmeetup.now.sh/badge.svg">
-[Join here](https://ovikdevmeetup.now.sh)
+[Join here]((https://ovikdevmeetup.now.sh)
 
 ### Meetups
 

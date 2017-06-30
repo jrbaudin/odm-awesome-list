@@ -8,6 +8,7 @@ Discussions are welcomed and can be held on [our page at meetup.com](https://www
 <img src="https://ovikdevmeetup.now.sh/badge.svg">
 
 Request invite here => https://ovikdevmeetup.now.sh
+[test](https://ovikdevmeetup.now.sh)
 
 ### Meetups
 

@@ -24,5 +24,5 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 - Date: 9 august 2017
 - Host: [Clavister](https://www.clavister.com)
 - Speaker: [Johan Lindgren](https://github.com/lindgr3n)
-- Repository: _coming_
-- Presentation: _coming_
+- Repository: [jest-demo](https://github.com/lindgr3n/jest-demo)
+- Presentation: [Testning i javascript med Jest](https://prezi.com/p/np5_o9kjikyl/)

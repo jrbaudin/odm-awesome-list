@@ -26,3 +26,11 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 - Speaker: [Johan Lindgren](https://github.com/lindgr3n)
 - Repository: [jest-demo](https://github.com/lindgr3n/jest-demo)
 - Presentation: [Testning i javascript med Jest](https://prezi.com/view/e2v07VnJrN0l4ibHQnAC/)
+
+#### #3 [Introduktion till GraphQL](https://www.meetup.com/ovik-dev/events/243474171/)
+
+- Date: 10 october 2017
+- Host: _tbd_
+- Speaker: [Joel Baudin](https://github.com/jrbaudin)
+- Repository: _tbd_
+- Presentation: _tbd_

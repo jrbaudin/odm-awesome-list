@@ -30,7 +30,7 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 #### #3 [Introduktion till GraphQL](https://www.meetup.com/ovik-dev/events/243474171/)
 
 - Date: 10 october 2017
-- Host: _tbd_
+- Host: BizMaker
 - Speaker: [Joel Baudin](https://github.com/jrbaudin)
-- Repository: _tbd_
+- Repository: [GraphQL-Example](https://github.com/jrbaudin/GraphQL-Example)
 - Presentation: _tbd_

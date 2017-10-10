@@ -33,4 +33,4 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 - Host: BizMaker
 - Speaker: [Joel Baudin](https://github.com/jrbaudin)
 - Repository: [GraphQL-Example](https://github.com/jrbaudin/GraphQL-Example)
-- Presentation: _tbd_
+- Presentation: [Introduction to GraphQL](https://prezi.com/view/5PfbkfvfXHCNDHTkN45z/)

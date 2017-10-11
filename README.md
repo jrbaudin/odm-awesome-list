@@ -30,7 +30,7 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 #### #3 [Introduktion till GraphQL](https://www.meetup.com/ovik-dev/events/243474171/)
 
 - Date: 10 october 2017
-- Host: BizMaker
+- Host: [BizMaker](http://www.bizmaker.se)
 - Speaker: [Joel Baudin](https://github.com/jrbaudin)
 - Repository: [GraphQL-Example](https://github.com/jrbaudin/GraphQL-Example)
 - Presentation: [Introduction to GraphQL](https://prezi.com/view/5PfbkfvfXHCNDHTkN45z/)
@@ -45,8 +45,8 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 
 #### #5 [DCI - How to get ahead in system architecture](https://www.meetup.com/ovik-dev/events/244107581/)
 
-- Date: 15 november 2017
-- Host: _tbd_
+- Date: 15 november 2017 19:00
+- Host: [Clavister](https://www.clavister.com)
 - Speaker: [Andreas Söderlund](https://github.com/ciscoheat)
 - Repository: _tbd_
 - Presentation: _tbd_

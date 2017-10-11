@@ -48,5 +48,5 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 - Date: 15 november 2017 19:00
 - Host: [Clavister](https://www.clavister.com)
 - Speaker: [Andreas Söderlund](https://github.com/ciscoheat)
-- Repository: _tbd_
+- Repository: [haxedci-example](https://github.com/ciscoheat/haxedci-example)
 - Presentation: _tbd_

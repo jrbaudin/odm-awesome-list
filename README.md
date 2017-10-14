@@ -13,7 +13,7 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 
 #### #1 [Kom igång snabbt med React och Firebase](https://www.meetup.com/ovik-dev/events/240287936/)
 
-- Date: 14 june 2017
+- Date: 14 June 2017
 - Host: [BizMaker](http://www.bizmaker.se)
 - Speaker: [Joel Baudin](https://github.com/jrbaudin)
 - Repository: [react-firebase-demo](https://github.com/jrbaudin/react-firebase-demo)
@@ -21,7 +21,7 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 
 #### #2 [Testning i Javascript med Jest](https://www.meetup.com/ovik-dev/events/241137933/)
 
-- Date: 9 august 2017
+- Date: 9 August 2017
 - Host: [Clavister](https://www.clavister.com)
 - Speaker: [Johan Lindgren](https://github.com/lindgr3n)
 - Repository: [jest-demo](https://github.com/lindgr3n/jest-demo)
@@ -29,23 +29,23 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 
 #### #3 [Introduktion till GraphQL](https://www.meetup.com/ovik-dev/events/243474171/)
 
-- Date: 10 october 2017
+- Date: 10 October 2017
 - Host: [BizMaker](http://www.bizmaker.se)
 - Speaker: [Joel Baudin](https://github.com/jrbaudin)
 - Repository: [GraphQL-Example](https://github.com/jrbaudin/GraphQL-Example)
 - Presentation: [Introduction to GraphQL](https://prezi.com/view/5PfbkfvfXHCNDHTkN45z/)
 
-#### #4 [Introduction to Crypto Currency]()
+#### #4 [Introduction to Blockchain and Smart Contracts](https://www.meetup.com/ovik-dev/events/244195803/)
 
-- Date: week 43 2017
+- Date: 25 October 2017 19:00
 - Host: _tbd_
-- Speaker: _tbd_
+- Speaker: Mattias Aspholm
 - Repository: _tbd_
 - Presentation: _tbd_
 
 #### #5 [DCI - How to get ahead in system architecture](https://www.meetup.com/ovik-dev/events/244107581/)
 
-- Date: 15 november 2017 19:00
+- Date: 15 November 2017 19:00
 - Host: [Clavister](https://www.clavister.com)
 - Speaker: [Andreas Söderlund](https://github.com/ciscoheat)
 - Repository: [haxedci-example](https://github.com/ciscoheat/haxedci-example)

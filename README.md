@@ -38,7 +38,7 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 #### #4 [Introduction to Blockchain and Smart Contracts](https://www.meetup.com/ovik-dev/events/244195803/)
 
 - Date: 25 October 2017 19:00
-- Host: _tbd_
+- Host: [Xlent](https://www.xlent.se)
 - Speaker: Mattias Aspholm
 - Repository: _tbd_
 - Presentation: _tbd_

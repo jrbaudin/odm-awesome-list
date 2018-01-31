@@ -50,3 +50,11 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 - Speaker: [Andreas Söderlund](https://github.com/ciscoheat)
 - Repository: [haxedci-example](https://github.com/ciscoheat/haxedci-example)
 - Presentation: _tbd_
+
+#### #6 [From Zero to App with React Native](https://www.meetup.com/ovik-dev/events/247340286/)
+
+- Date: 13 februari 2018 19:00
+- Host: [Bizmaker](http://www.bizmaker.se)
+- Speaker: [Joel Baudin](https://github.com/jrbaudin)
+- Repository: _tbd_
+- Presentation: _tbd_

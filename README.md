@@ -31,7 +31,7 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 
 - Date: 10 October 2017
 - Host: [BizMaker](http://www.bizmaker.se)
-- Speaker: [Joel Baudin](https://github.com/jrbaudin)
+- Speaker: [Joel Baudin](https://github.com/jrbaudin) & [Johan Lindgren](https://github.com/lindgr3n)
 - Repository: [GraphQL-Example](https://github.com/jrbaudin/GraphQL-Example)
 - Presentation: [Introduction to GraphQL](https://prezi.com/view/5PfbkfvfXHCNDHTkN45z/)
 
@@ -56,5 +56,13 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 - Date: 13 februari 2018 19:00
 - Host: [Bizmaker](http://www.bizmaker.se)
 - Speaker: [Joel Baudin](https://github.com/jrbaudin)
+- Repository: _tbd_
+- Presentation: _tbd_
+
+#### #7 [Using Atomic Design to build interfaces!](https://www.meetup.com/ovik-dev/events/247518466/)
+
+- Date: 28 februari 2018 19:00
+- Host: [tbd]()
+- Speaker: [Johan Lindgren](https://github.com/lindgr3n)
 - Repository: _tbd_
 - Presentation: _tbd_

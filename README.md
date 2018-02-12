@@ -56,7 +56,7 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 - Date: 13 februari 2018 19:00
 - Host: [Bizmaker](http://www.bizmaker.se)
 - Speaker: [Joel Baudin](https://github.com/jrbaudin)
-- Repository: _tbd_
+- Repository: [jrbaudin/odm-zero-to-app-with-rn](https://github.com/jrbaudin/odm-zero-to-app-with-rn)
 - Presentation: _tbd_
 
 #### #7 [Using Atomic Design to build interfaces!](https://www.meetup.com/ovik-dev/events/247518466/)

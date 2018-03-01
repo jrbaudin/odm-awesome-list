@@ -62,7 +62,7 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 #### #7 [Using Atomic Design to build interfaces!](https://www.meetup.com/ovik-dev/events/247518466/)
 
 - Date: 28 februari 2018 19:00
-- Host: [tbd]()
+- Host: [Bizmaker](http://www.bizmaker.se)
 - Speaker: [Johan Lindgren](https://github.com/lindgr3n)
 - Repository: _tbd_
-- Presentation: _tbd_
+- Presentation: https://prezi.com/view/ltOnQM0rnHfZHlTzRigx/

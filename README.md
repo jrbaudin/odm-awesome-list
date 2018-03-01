@@ -65,4 +65,4 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 - Host: [Bizmaker](http://www.bizmaker.se)
 - Speaker: [Johan Lindgren](https://github.com/lindgr3n)
 - Repository: _tbd_
-- Presentation: https://prezi.com/view/ltOnQM0rnHfZHlTzRigx/
+- Presentation: [Atomic Design](https://prezi.com/view/ltOnQM0rnHfZHlTzRigx/)

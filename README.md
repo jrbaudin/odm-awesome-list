@@ -53,7 +53,7 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 
 #### #6 [From Zero to App with React Native](https://www.meetup.com/ovik-dev/events/247340286/)
 
-- Date: 13 februari 2018 19:00
+- Date: 13 february 2018 19:00
 - Host: [Bizmaker](http://www.bizmaker.se)
 - Speaker: [Joel Baudin](https://github.com/jrbaudin)
 - Repository: [jrbaudin/odm-zero-to-app-with-rn](https://github.com/jrbaudin/odm-zero-to-app-with-rn)
@@ -66,3 +66,59 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 - Speaker: [Johan Lindgren](https://github.com/lindgr3n)
 - Repository: _tbd_
 - Presentation: [Atomic Design](https://prezi.com/view/ltOnQM0rnHfZHlTzRigx/)
+
+#### #8 [Vue.js - An introduction to "The Progressive JavaScript Framework"](https://www.meetup.com/ovik-dev/events/250644997/)
+
+- Date: 30 may 2018 19:00
+- Host: _tbd_
+- Speaker: [Johan Lindgren](https://github.com/lindgr3n)
+- Repository: _tbd_
+- Presentation: _tbd_
+
+#### #9 [How to run a GraphQL server using Apollo](https://www.meetup.com/ovik-dev/events/250645033/)
+
+- Date: 27 june 2018 19:00
+- Host: _tbd_
+- Speaker: [Joel Baudin](https://github.com/jrbaudin)
+- Repository: _tbd_
+- Presentation: _tbd_
+
+#### #10 [Client side GraphQL using Apollo](https://www.meetup.com/ovik-dev/events/250645119/)
+
+- Date: 29 august 2018 19:00
+- Host: _tbd_
+- Speaker: [Joel Baudin](https://github.com/jrbaudin)
+- Repository: _tbd_
+- Presentation: _tbd_
+
+#### #11 [Server Side Rendering using Next.js/Nuxt - the what, how and why](https://www.meetup.com/ovik-dev/events/250645145/)
+
+- Date: 26 september 2018 19:00
+- Host: _tbd_
+- Speaker: [Joel Baudin](https://github.com/jrbaudin) & [Johan Lindgren](https://github.com/lindgr3n)
+- Repository: _tbd_
+- Presentation: _tbd_
+
+#### #12 [Node.js 101 and how to actually deploy it - Docker, DigitalOcean](https://www.meetup.com/ovik-dev/events/250645179/)
+
+- Date: 31 october 2018 19:00
+- Host: _tbd_
+- Speaker: [Joel Baudin](https://github.com/jrbaudin) & [Johan Lindgren](https://github.com/lindgr3n)
+- Repository: _tbd_
+- Presentation: _tbd_
+
+#### #13 [How to create and maintain a Design System and why you should do it](https://www.meetup.com/ovik-dev/events/250645375/)
+
+- Date: 28 november 2018 19:00
+- Host: _tbd_
+- Speaker: [Johan Lindgren](https://github.com/lindgr3n)
+- Repository: _tbd_
+- Presentation: _tbd_
+
+#### #14 [TypeScript - build JavaScript apps with greater confidence and speed](https://www.meetup.com/ovik-dev/events/250678954/)
+
+- Date: 12 december 2018 19:00
+- Host: _tbd_
+- Speaker: [Joel Baudin](https://github.com/jrbaudin)
+- Repository: _tbd_
+- Presentation: _tbd_

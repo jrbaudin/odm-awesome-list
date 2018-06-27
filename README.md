@@ -70,23 +70,23 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 #### #8 [Vue.js - An introduction to "The Progressive JavaScript Framework"](https://www.meetup.com/ovik-dev/events/250644997/)
 
 - Date: 30 may 2018 19:00
-- Host: _tbd_
+- Host: [Bizmaker](http://www.bizmaker.se)
 - Speaker: [Johan Lindgren](https://github.com/lindgr3n)
 - Repository: _tbd_
 - Presentation: _tbd_
 
 #### #9 [How to run a GraphQL server using Apollo](https://www.meetup.com/ovik-dev/events/250645033/)
 
-- Date: 27 june 2018 19:00
-- Host: _tbd_
+- Date: 27 june 2018 12:00
+- Host: [Bizmaker](http://www.bizmaker.se)
 - Speaker: [Joel Baudin](https://github.com/jrbaudin)
-- Repository: _tbd_
-- Presentation: _tbd_
+- Repository: [graphql-server-with-apollo](https://github.com/jrbaudin/meetup-projects/tree/master/packages/graphql-server-with-apollo)
+- Presentation: [server-side-graphql-with-apollo.surge.sh](http://server-side-graphql-with-apollo.surge.sh)
 
 #### #10 [Client side GraphQL using Apollo](https://www.meetup.com/ovik-dev/events/250645119/)
 
-- Date: 29 august 2018 19:00
-- Host: _tbd_
+- Date: 29 august 2018 12:00
+- Host: [XLent](https://www.xlent.se/kontakt/ornskoldsvik/)
 - Speaker: [Joel Baudin](https://github.com/jrbaudin)
 - Repository: _tbd_
 - Presentation: _tbd_

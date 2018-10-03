@@ -72,8 +72,8 @@ Request invite [here](https://ovikdevmeetup.now.sh)
 - Date: 30 may 2018 19:00
 - Host: [Bizmaker](http://www.bizmaker.se)
 - Speaker: [Johan Lindgren](https://github.com/lindgr3n)
-- Repository: _tbd_
-- Presentation: _tbd_
+- Repository: [Vue examples](https://github.com/lindgr3n/odm-meetup8) (More Vue projects exist in my github)
+- Presentation: [Vue.js - An introduction](https://prezi.com/view/fnxWD1VUDpNpgnxP6fe3/)
 
 #### #9 [How to run a GraphQL server using Apollo](https://www.meetup.com/ovik-dev/events/250645033/)
 
